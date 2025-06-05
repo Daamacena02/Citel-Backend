@@ -78,4 +78,4 @@ CREATE TABLE usuarios (
 6. Envie o JSON fornecido pela Citel no endpoint a seguir:
    user-controller - POST /users
 
-7. Após enviar o JSON, direcionar para o projeto do font-end em: 
+7. Após enviar o JSON, direcionar para o projeto do font-end em: https://github.com/Daamacena02/Citel-Front-End
