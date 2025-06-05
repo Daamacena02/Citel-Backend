@@ -1,0 +1,22 @@
+/*CREATE TABLE usuarios (
+                          id BIGINT AUTO_INCREMENT PRIMARY KEY,
+                          nome VARCHAR(255) NOT NULL,
+                          cpf VARCHAR(20) NOT NULL,
+                          rg VARCHAR(20) NOT NULL,
+                          data_nasc VARCHAR(20) NOT NULL,
+                          sexo VARCHAR(20) NOT NULL,
+                          mae VARCHAR(255) NOT NULL,
+                          pai VARCHAR(255) NOT NULL,
+                          email VARCHAR(255) NOT NULL,
+                          cep VARCHAR(20),
+                          endereco VARCHAR(255),
+                          numero INT,
+                          bairro VARCHAR(100),
+                          cidade VARCHAR(100),
+                          estado VARCHAR(50),
+                          telefone_fixo VARCHAR(20),
+                          celular VARCHAR(20),
+                          altura DOUBLE NOT NULL,
+                          peso DOUBLE NOT NULL,
+                          tipo_sanguineo VARCHAR(5)
+);*/
